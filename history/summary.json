@@ -4,18 +4,20 @@
     "url": "https://chse.dev",
     "icon": "https://favicons.githubusercontent.com/chse.dev",
     "slug": "www",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1151,
-    "timeDay": 105,
-    "timeWeek": 2071,
-    "timeMonth": 1151,
-    "timeYear": 1151,
-    "dailyMinutesDown": {}
+    "time": 1100,
+    "timeDay": 583,
+    "timeWeek": 478,
+    "timeMonth": 1100,
+    "timeYear": 1100,
+    "dailyMinutesDown": {
+      "2022-04-26": 0
+    }
   },
   {
     "name": "Mail",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 160,
-    "timeDay": 174,
-    "timeWeek": 148,
-    "timeMonth": 160,
-    "timeYear": 160,
+    "time": 162,
+    "timeDay": 187,
+    "timeWeek": 157,
+    "timeMonth": 162,
+    "timeYear": 162,
     "dailyMinutesDown": {}
   }
 ]
